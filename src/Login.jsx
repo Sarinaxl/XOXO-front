@@ -39,7 +39,7 @@ function Login(){
           
 
         </div>
-        <h2 className="text-center my-5 ">Proved By Your Name 2012</h2>
+        <h2 className="text-center my-5 ">Proved By Your Sarina Khodadi</h2>
         
     </div>
 }
